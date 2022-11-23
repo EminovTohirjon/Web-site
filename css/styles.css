@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.header-section {
+  background-image: url("../images/Rectangle\ \(4\).png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.header-section-infos {
+  padding: 160px 0;
+}
+
+.header-section-info-1 {
+  font-weight: 600;
+}
+
+.header-section-info-2 {
+  color: blue;
+  font-weight: 500;
+}
+
+.header-section-info-3 {
+  width: 270px;
+}
+
+.form-control {
+  width: 250px !important;
+  border: 1px solid #6f2cff !important;
+  display: inline-block !important;
+  border-radius: 27.5px 0px 0px 27.5px !important;
+}
+
+.header-btn {
+  background: #6f2cff !important;
+  color: white !important;
+  margin-top: -4px !important;
+  margin-left: -4px !important;
+  border-radius: 0 !important;
+  border-radius: 0px 27.5px 27.5px 0px !important;
+}
+
+/* trust styles */
+
+.trust-section-top {
+  text-align: center;
+}
+.trusted {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+}
+.trust-sec-ads {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.meet {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1c1c1c;
+  padding: 30px 0;
+}
+.meet u {
+  color: blue;
+}
+.trust-sec-main-div {
+  height: 660px;
+  width: 100%;
+  position: relative;
+}
+.main-div-left {
+  width: 55%;
+  float: left;
+}
+.position-left {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.grow {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+}
+.button-meet {
+  display: flex;
+  gap: 20px;
+  padding: 30px 0;
+}
+.hr-1 {
+  width: 1px;
+  height: 650px;
+  background-color: black;
+  opacity: 0.3;
+  position: absolute;
+  right: 600px;
+}
+.percent {
+  padding: 28px 0;
+}
+.percent h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #000000;
+}
+.percent p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+}
+.hr-2 {
+  width: 1px;
+  height: 650px;
+  background-color: black;
+  opacity: 0.3;
+  position: absolute;
+  right: 300px;
+  top: 0px;
+}
+.persent-2 {
+  position: absolute;
+  right: 30px;
+  top: 5px;
+}
+
+/* qubit styles */
+.qubit-section {
+  text-align: center;
+  padding: 120px 0;
+}
+
+/* products styles */
+.products-section {
+  text-align: center;
+  padding: 20px;
+}
+
+.products-section_img {
+  text-align: center;
+}
+/*  */
+.main-bakground {
+  background: #f5f5f5;
+}
+
+.products-section_img {
+  padding: 80px 0;
+}
+
+.block {
+  background: #6f2cff;
+  color: white;
+  border-radius: 30px;
+  padding: 10px 25px;
+  border: none;
+  outline: none;
+}
+
+.demo {
+  background: #ffffff;
+  box-shadow: 0px 0px 0px #6f2cff;
+  border-radius: 30px;
+  padding: 10px 30px;
+  border: none;
+  outline: none;
+}
+
+/* solutions styles */
+.solutions-section {
+  text-align: center;
+}
+
+.col-md-4  {
+  
+}
